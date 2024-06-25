@@ -17,4 +17,4 @@ function binarySearch(arr,target){
     return -1;//Not Found
 }
 
-module.export = binarySearch;
+module.exports = binarySearch;
