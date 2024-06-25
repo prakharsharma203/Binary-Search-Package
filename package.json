@@ -1,0 +1,23 @@
+{
+  "name": "binary-search-packages",
+  "version": "1.0.0",
+  "description": "To find element in a sorted array in logn time",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Binary",
+    "search",
+    "package",
+    "Algorithms",
+    "Data",
+    "strcuture",
+    "sorted",
+    "array",
+    "node",
+    "npm"
+  ],
+  "author": "Prakhar Sharma",
+  "license": "ISC"
+}
